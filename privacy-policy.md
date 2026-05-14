@@ -253,7 +253,7 @@ Prihlásený používateľ môže požiadať o zrušenie svojho účtu:
 
 - priamo v aplikácii HOLUP, ak je táto možnosť dostupná,
 - e-mailom na adrese: sancananavrat@gmail.com,
-- prostredníctvom verejne dostupnej webovej stránky uvedenej v zázname aplikácie v službe Google Play: https://rutolphis.github.io/privacy-policy/privacy-policy.
+- prostredníctvom verejne dostupnej webovej stránky uvedenej v zázname aplikácie v službe Google Play: https://github.com/rutolphis/privacy-policy/blob/main/privacy-policy.md.
 
 Po prijatí žiadosti o zrušenie účtu prevádzkovateľ vykoná vymazanie účtu a osobných údajov súvisiacich s účtom, ak ďalšie uchovávanie nie je potrebné alebo povinné podľa právnych predpisov.
 
